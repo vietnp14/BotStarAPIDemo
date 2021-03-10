@@ -1,0 +1,19 @@
+{
+  "name": "BotStarApiDemo",
+  "version": "1.0.0",
+  "description": "Demo using BotStar Api",
+  "author": "Viet Nguyen",
+  "license": "MIT",
+  "scripts": {
+    "start": "ts-node app.ts"
+  },
+  "dependencies": {
+    "@types/node": "^14.14.33",
+    "axios": "^0.21.1",
+    "typescript": "^4.2.3"
+  },
+  "devDependencies": {
+    "ts-node": "^9.1.1",
+    "tslint": "^6.1.3"
+  }
+}

@@ -1,0 +1,99 @@
+[
+  {
+    "name": "Entity 8",
+    "fields": [
+      {
+        "unique_name": "field1",
+        "name": "field1",
+        "data_type": "text"
+      },
+      {
+        "unique_name": "field2",
+        "name": "field2",
+        "data_type": "multiple_values"
+      },
+      {
+        "unique_name": "field3",
+        "name": "field3",
+        "data_type": "single_option",
+        "options": {
+          "predefined_data": [
+            {
+              "value": "us",
+              "label": "United States",
+              "label_en": "United States",
+              "label_ja": "アメリカ"
+            },
+            {
+              "value": "vi",
+              "label": "Vietnam",
+              "label_en": "Vietnam",
+              "label_ja": "ベトナム"
+            }
+          ]
+        }
+      },
+      {
+        "unique_name": "field4",
+        "name": "field4",
+        "data_type": "multiple_options",
+        "options": {
+          "predefined_data": [
+            {
+              "value": "us",
+              "label": "United States",
+              "label_en": "United States",
+              "label_ja": "アメリカ"
+            },
+            {
+              "value": "vi",
+              "label": "Vietnam",
+              "label_en": "Vietnam",
+              "label_ja": "ベトナム"
+            }
+          ]
+        }
+      },
+      {
+        "unique_name": "field5",
+        "name": "field5",
+        "data_type": "image"
+      },
+      {
+        "unique_name": "field6",
+        "name": "field6",
+        "data_type": "date"
+      }
+    ]
+  },
+  {
+    "name": "Entity 9",
+    "fields": [
+      {
+        "unique_name": "field5",
+        "name": "field5",
+        "data_type": "image"
+      },
+      {
+        "unique_name": "field6",
+        "name": "field6",
+        "data_type": "date"
+      }
+    ]
+  },
+  {
+    "name": "Entity 10",
+    "fields": [
+      {
+        "unique_name": "field1",
+        "name": "field1",
+        "data_type": "text"
+      },
+      {
+        "unique_name": "field2",
+        "name": "field2",
+        "data_type": "multiple_values"
+      }
+    ]
+  }
+]
